@@ -1,3 +1,3 @@
 # TestCalculator
 
-A dCalculator Demo
+A Calculator Demo

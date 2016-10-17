@@ -14,10 +14,10 @@ import android.widget.Toast;
 public class MainActivity extends Activity {
 	
 	
-		private TableLayout table1=null;
-		private TableLayout table2=null;
+	    private TableLayout table1=null;
+            private TableLayout table2=null;
 
-		private Button[] btnNum = new Button[11];// 数值按钮  
+            private Button[] btnNum = new Button[11];// 数值按钮  
 	    private Button[] btnCommand = new Button[5];// 符号按钮  
 	    private EditText editText = null;// 显示区域  
 	    private Button btnClear = null; // clear按钮  
